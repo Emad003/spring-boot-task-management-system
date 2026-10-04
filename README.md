@@ -17,6 +17,8 @@ The project demonstrates real-world backend development concepts including REST 
 - Secure password encryption using BCrypt
 - User login authentication
 - Spring Security integration
+- JWT based authentication
+- Stateless authentication using JWT tokens
 - Protected APIs for authenticated users
 
 ### Task Management
@@ -450,20 +452,7 @@ in:
 application.properties
 ```
 
----
 
-# Future Improvements
-
-- JWT Authentication
-- Refresh Token
-- Role-Based Authorization
-- Swagger API Documentation
-- Docker Support
-- Unit Testing
-- CI/CD Pipeline
-- Global Exception Handling
-
----
 
 # Author
 
