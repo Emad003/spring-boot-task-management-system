@@ -105,7 +105,7 @@ mysql --version
 Clone the project:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spring-boot-task-management-system.git
+git clone https://github.com/Emad003/spring-boot-task-management-system.git
 ```
 
 Move into the project:
