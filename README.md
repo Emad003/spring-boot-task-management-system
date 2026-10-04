@@ -467,7 +467,7 @@ application.properties
 
 # Author
 
-**Md Shahi**
+**Md Emad Fazal**
 
 GitHub:
 
